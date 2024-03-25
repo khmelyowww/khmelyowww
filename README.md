@@ -1,6 +1,6 @@
 ![Header](https://github.com/khmelyowww/khmelyowww/blob/main/assets/badge.png)
 
-About me
+## I'm a student and a beginner developer
 
 Languages and Tools
 
