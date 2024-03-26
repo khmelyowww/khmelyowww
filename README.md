@@ -10,21 +10,16 @@
 
 I'm 19 y.o. and i'm in my last year of college. I am currently actively working on my graduation project. I started being interested in programming from the 9th grade of school. I have experience in languages such as: 
 
-[![C++](https://img.shields.io/badge/C++-9C033A)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-
-[![С#](https://img.shields.io/badge/C%23-68217A)](https://docs.microsoft.com/en-us/cpp/?view=msvc-170)
-
-[![Python](https://img.shields.io/badge/Python-FDD148)](https://www.python.org/)
-
-[![Swift](https://img.shields.io/badge/Swift-F05B45)](https://www.swift.org/)
-
-[![SQL](https://img.shields.io/badge/SQL-00618A)](https://www.mysql.com/)
-
-[![HTML](https://img.shields.io/badge/HTML-E44D25)](https://ru.wikipedia.org/wiki/HTML)
-
-[![PHP](https://img.shields.io/badge/PHP-757CB4)](https://www.php.net/)
-
-[![1C](https://img.shields.io/badge/1C-DA1A1B)](https://1c.ru/)
+[![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2b%2b&logoColor=9C033A)](https://docs.microsoft.com/en-us/cpp/?view=msvc-170)
+[![С#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=CSharp&logoColor=68217A)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=MySQL&)](https://www.mysql.com/)
+[![Swift](https://img.shields.io/badge/Swift-black?style=for-the-badge&logo=Swift&)](https://www.swift.org/)
+[![1C](https://img.shields.io/badge/1C-black?style=for-the-badge&logo=data:image/svg%2bxml;base64,&logoColor=)](https://1c.ru/)
+[![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=yellow)](https://www.python.org/)
+[![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=E54C21)](https://ru.wikipedia.org/wiki/HTML)
+[![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=264DE4)](https://ru.wikipedia.org/wiki/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://learn.javascript.ru/intro)
+[![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=PHP&)](https://www.php.net/)
 
 -----------------------------------------------------------------
 
