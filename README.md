@@ -9,14 +9,22 @@
 * 🧠  I'm learning everything but most of all C# Windows Forms
 
 I'm 19 y.o. and i'm in my last year of college. I am currently actively working on my graduation project. I started being interested in programming from the 9th grade of school. I have experience in languages such as: 
-* C++
-* С#
-* Python
-* Swift
-* SQL
-* HTML
-* PHP
-* 1C
+
+[![C++](https://img.shields.io/badge/C++-9C033A)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+
+[![С#](https://img.shields.io/badge/C%23-68217A)](https://docs.microsoft.com/en-us/cpp/?view=msvc-170)
+
+[![Python](https://img.shields.io/badge/Python-FDD148)](https://www.python.org/)
+
+[![Swift](https://img.shields.io/badge/Swift-F05B45)](https://www.swift.org/)
+
+[![SQL](https://img.shields.io/badge/SQL-00618A)](https://www.mysql.com/)
+
+[![HTML](https://img.shields.io/badge/HTML-E44D25)](https://ru.wikipedia.org/wiki/HTML)
+
+[![PHP](https://img.shields.io/badge/PHP-757CB4)](https://www.php.net/)
+
+[![1C](https://img.shields.io/badge/1C-DA1A1B)](https://1c.ru/)
 
 -----------------------------------------------------------------
 
