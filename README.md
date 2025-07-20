@@ -8,7 +8,7 @@
 
 * 🧠  I'm learning everything but most of all C# Windows Forms
 
-I'm 19 y.o. and i'm in my last year of college. I am currently actively working on my graduation project. I started being interested in programming from the 9th grade of school. I have experience in languages such as: 
+I'm 19 y.o. and i'm in my last year of college. I started being interested in programming from the 9th grade of school. I have experience in languages such as: 
 
 [![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2b%2b&logoColor=9C033A)](https://docs.microsoft.com/en-us/cpp/?view=msvc-170)
 [![С#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=CSharp&logoColor=68217A)](https://docs.microsoft.com/en-us/dotnet/csharp/)
